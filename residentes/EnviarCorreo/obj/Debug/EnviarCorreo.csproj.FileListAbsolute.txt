@@ -1,0 +1,22 @@
+C:\Users\Yenier\AppData\Local\Temporary Projects\EnviarCorreo\bin\Debug\EnviarCorreo.exe.config
+D:\Escritorio\EnviarCorreo\EnviarCorreo\bin\Debug\EnviarCorreo.exe.config
+D:\Escritorio\EnviarCorreo\EnviarCorreo\bin\Debug\EnviarCorreo.exe
+D:\Escritorio\EnviarCorreo\EnviarCorreo\bin\Debug\EnviarCorreo.pdb
+D:\Escritorio\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.csprojResolveAssemblyReference.cache
+D:\Escritorio\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.Form1.resources
+D:\Escritorio\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.Properties.Resources.resources
+D:\Escritorio\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.csproj.GenerateResource.Cache
+D:\Escritorio\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.exe
+D:\Escritorio\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.pdb
+D:\Documentos\Visual Studio 2012\Projects(CSharp)\EnviarCorreo\EnviarCorreo\bin\Debug\EnviarCorreo.exe.config
+D:\Documentos\Visual Studio 2012\Projects(CSharp)\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.exe
+D:\Documentos\Visual Studio 2012\Projects(CSharp)\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.pdb
+D:\Documentos\Visual Studio 2012\Projects(CSharp)\EnviarCorreo\EnviarCorreo\bin\Debug\EnviarCorreo.exe
+D:\Documentos\Visual Studio 2012\Projects(CSharp)\EnviarCorreo\EnviarCorreo\bin\Debug\EnviarCorreo.pdb
+D:\Documentos\Visual Studio 2012\Projects(CSharp)\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2012\Projects(CSharp)\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.Form1.resources
+D:\Documentos\Visual Studio 2012\Projects(CSharp)\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.Properties.Resources.resources
+D:\Documentos\Visual Studio 2012\Projects(CSharp)\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.csproj.GenerateResource.Cache
+C:\Users\SAMSUNG\Downloads\EnviarCorreo\EnviarCorreo\bin\Debug\EnviarCorreo.exe.config
+C:\Users\SAMSUNG\Downloads\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.exe
+C:\Users\SAMSUNG\Downloads\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.pdb

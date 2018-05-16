@@ -1,0 +1,179 @@
+C:\Users\SAMSUNG\Downloads\EnviarCorreo\EnviarCorreo\bin\Debug\EnviarCorreo.exe.config
+C:\Users\SAMSUNG\Downloads\EnviarCorreo\EnviarCorreo\bin\Debug\EnviarCorreo.exe
+C:\Users\SAMSUNG\Downloads\EnviarCorreo\EnviarCorreo\bin\Debug\EnviarCorreo.pdb
+C:\Users\SAMSUNG\Downloads\EnviarCorreo\EnviarCorreo\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\SAMSUNG\Downloads\EnviarCorreo\EnviarCorreo\obj\Debug\ControlResidentes.csprojResolveAssemblyReference.cache
+C:\Users\SAMSUNG\Downloads\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.Autentificacion.resources
+C:\Users\SAMSUNG\Downloads\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.Form1.resources
+C:\Users\SAMSUNG\Downloads\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.Principal_alumnos.resources
+C:\Users\SAMSUNG\Downloads\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.Properties.Resources.resources
+C:\Users\SAMSUNG\Downloads\EnviarCorreo\EnviarCorreo\obj\Debug\ControlResidentes.csproj.GenerateResource.Cache
+C:\Users\SAMSUNG\Downloads\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.exe
+C:\Users\SAMSUNG\Downloads\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.pdb
+C:\Users\SAMSUNG\Downloads\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.Pagina_inicio.resources
+C:\Users\SAMSUNG\Downloads\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.principal_coordinador.resources
+C:\Users\SAMSUNG\Downloads\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.Solicitud_de_Residentes.resources
+C:\Users\SAMSUNG\Downloads\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.Agregar_Alumno.resources
+C:\Users\SAMSUNG\Downloads\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.PRINCIPAL_ASESORES.resources
+C:\Users\SAMSUNG\Downloads\residentes\EnviarCorreo\bin\Debug\EnviarCorreo.exe.config
+C:\Users\SAMSUNG\Downloads\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.exe
+C:\Users\SAMSUNG\Downloads\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.pdb
+C:\Users\SAMSUNG\Downloads\residentes\EnviarCorreo\bin\Debug\EnviarCorreo.exe
+C:\Users\SAMSUNG\Downloads\residentes\EnviarCorreo\bin\Debug\EnviarCorreo.pdb
+C:\Users\SAMSUNG\Downloads\residentes\EnviarCorreo\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\SAMSUNG\Downloads\residentes\EnviarCorreo\obj\Debug\ControlResidentes.csprojResolveAssemblyReference.cache
+C:\Users\SAMSUNG\Downloads\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.Agregar_Alumno.resources
+C:\Users\SAMSUNG\Downloads\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.Agregar_DOCENTES.resources
+C:\Users\SAMSUNG\Downloads\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.Autentificacion.resources
+C:\Users\SAMSUNG\Downloads\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.Form1.resources
+C:\Users\SAMSUNG\Downloads\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.Pagina_inicio.resources
+C:\Users\SAMSUNG\Downloads\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.Principal_alumnos.resources
+C:\Users\SAMSUNG\Downloads\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.Properties.Resources.resources
+C:\Users\SAMSUNG\Downloads\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.PRINCIPAL_ASESORES.resources
+C:\Users\SAMSUNG\Downloads\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.principal_coordinador.resources
+C:\Users\SAMSUNG\Downloads\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.Solicitud_de_Residentes.resources
+C:\Users\SAMSUNG\Downloads\residentes\EnviarCorreo\obj\Debug\ControlResidentes.csproj.GenerateResource.Cache
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\SCR\residentes\EnviarCorreo\obj\Debug\ControlResidentes.csprojResolveAssemblyReference.cache
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.Agregar_DOCENTES.resources
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.Autentificacion.resources
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.Form1.resources
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.Principal_alumnos.resources
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.Properties.Resources.resources
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.frmAsesor.resources
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.principal_coordinador.resources
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.Solicitud_de_Residentes.resources
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\SCR\residentes\EnviarCorreo\obj\Debug\ControlResidentes.csproj.GenerateResource.Cache
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\SCR\residentes\EnviarCorreo\obj\Debug\ControlResidentes.csproj.CoreCompileInputs.cache
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.exe
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.pdb
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.frmMainWindow.resources
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\SCR\residentes\EnviarCorreo\bin\Debug\EnviarCorreo.exe.config
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\SCR\residentes\EnviarCorreo\bin\Debug\EnviarCorreo.exe
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\SCR\residentes\EnviarCorreo\bin\Debug\EnviarCorreo.pdb
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\SCR\residentes\EnviarCorreo\bin\Debug\MySql.Data.dll
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\SCR\residentes\EnviarCorreo\bin\Debug\Google.Protobuf.dll
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\SCR\residentes\EnviarCorreo\bin\Debug\MySql.Data.xml
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.frmAgregarAlumno.resources
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.AgregarDocente.resources
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.BuscarDocente.resources
+D:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\bin\Debug\EnviarCorreo.exe.config
+D:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.exe
+D:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.pdb
+D:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\ControlResidentes.csprojResolveAssemblyReference.cache
+D:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.AgregarDocente.resources
+D:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.frmAgregarAlumno.resources
+D:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.Autentificacion.resources
+D:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.BuscarDocente.resources
+D:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.Form1.resources
+D:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.frmMainWindow.resources
+D:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.Principal_alumnos.resources
+D:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.Properties.Resources.resources
+D:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.frmAsesor.resources
+D:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.principal_coordinador.resources
+D:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.Solicitud_de_Residentes.resources
+D:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\ControlResidentes.csproj.GenerateResource.Cache
+F:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\ControlResidentes.csprojResolveAssemblyReference.cache
+F:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.AgregarDocente.resources
+F:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.frmAgregarAlumno.resources
+F:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.Autentificacion.resources
+F:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.BuscarDocente.resources
+F:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.Form1.resources
+F:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.frmMainWindow.resources
+F:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.Principal_alumnos.resources
+F:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.Properties.Resources.resources
+F:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.frmAsesor.resources
+F:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.principal_coordinador.resources
+F:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.Solicitud_de_Residentes.resources
+F:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\ControlResidentes.csproj.GenerateResource.cache
+F:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\ControlResidentes.csproj.CoreCompileInputs.cache
+F:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.exe
+F:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.pdb
+F:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\bin\Debug\EnviarCorreo.exe.config
+F:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\bin\Debug\EnviarCorreo.exe
+F:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\bin\Debug\EnviarCorreo.pdb
+F:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\bin\Debug\Google.Protobuf.dll
+F:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\bin\Debug\MySql.Data.xml
+F:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\ControlResidentes.csproj.CopyComplete
+F:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.VericarCorreos_coordinador.resources
+F:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.Principal_docente.resources
+D:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\bin\Debug\EnviarCorreo.exe
+D:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\bin\Debug\EnviarCorreo.pdb
+D:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\bin\Debug\MySql.Data.dll
+D:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\bin\Debug\Google.Protobuf.dll
+D:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\bin\Debug\MySql.Data.xml
+D:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.Principal_docente.resources
+D:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.VericarCorreos_coordinador.resources
+D:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\ControlResidentes.csproj.CoreCompileInputs.cache
+O:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\ControlResidentes.csprojResolveAssemblyReference.cache
+O:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.AgregarDocente.resources
+O:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.frmAgregarAlumno.resources
+O:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.BuscarDocente.resources
+O:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.Form1.resources
+O:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.frmMainWindow.resources
+O:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.Principal_alumnos.resources
+O:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.Properties.Resources.resources
+O:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.frmAsesor.resources
+O:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.principal_coordinador.resources
+O:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.Principal_docente.resources
+O:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.Solicitud_de_Residentes.resources
+O:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.VericarCorreos_coordinador.resources
+O:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\ControlResidentes.csproj.GenerateResource.Cache
+O:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\ControlResidentes.csproj.CoreCompileInputs.cache
+O:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.exe
+O:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.pdb
+O:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\bin\Debug\EnviarCorreo.exe.config
+O:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\bin\Debug\EnviarCorreo.exe
+O:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\bin\Debug\EnviarCorreo.pdb
+O:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\bin\Debug\MySql.Data.dll
+O:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\bin\Debug\Google.Protobuf.dll
+O:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\bin\Debug\MySql.Data.xml
+O:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.Login.resources
+O:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.VerDetallesAlumno.resources
+O:\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.frmRevisionDocumentos.resources
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\bin\Debug\EnviarCorreo.exe.config
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\bin\Debug\EnviarCorreo.exe
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\bin\Debug\EnviarCorreo.pdb
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\bin\Debug\MySql.Data.dll
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\bin\Debug\Google.Protobuf.dll
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\bin\Debug\MySql.Data.xml
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\ControlResidentes.csprojResolveAssemblyReference.cache
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.AgregarDocente.resources
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.frmAgregarAlumno.resources
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.BuscarDocente.resources
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.Form1.resources
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.Login.resources
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.frmMainWindow.resources
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.Principal_alumnos.resources
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.Properties.Resources.resources
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.frmAsesor.resources
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.principal_coordinador.resources
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.Principal_docente.resources
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.frmRevisionDocumentos.resources
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.Solicitud_de_Residentes.resources
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.VerDetallesAlumno.resources
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.VericarCorreos_coordinador.resources
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\ControlResidentes.csproj.GenerateResource.Cache
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\ControlResidentes.csproj.CoreCompileInputs.cache
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.exe
+O:\All that remains\ITSur - 6° semestre\Ingeniería de Software\Unidad III.- Programación\El proyecto de Efren hasta hoy\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.pdb
+C:\Users\SAMSUNG\Desktop\SCR\residentes\EnviarCorreo\bin\Debug\EnviarCorreo.exe.config
+C:\Users\SAMSUNG\Desktop\SCR\residentes\EnviarCorreo\bin\Debug\EnviarCorreo.exe
+C:\Users\SAMSUNG\Desktop\SCR\residentes\EnviarCorreo\bin\Debug\EnviarCorreo.pdb
+C:\Users\SAMSUNG\Desktop\SCR\residentes\EnviarCorreo\bin\Debug\Google.Protobuf.dll
+C:\Users\SAMSUNG\Desktop\SCR\residentes\EnviarCorreo\bin\Debug\MySql.Data.xml
+C:\Users\SAMSUNG\Desktop\SCR\residentes\EnviarCorreo\obj\Debug\ControlResidentes.csprojResolveAssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.frmAgregarAlumno.resources
+C:\Users\SAMSUNG\Desktop\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.Login.resources
+C:\Users\SAMSUNG\Desktop\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.Principal_alumnos.resources
+C:\Users\SAMSUNG\Desktop\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.Properties.Resources.resources
+C:\Users\SAMSUNG\Desktop\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.frmAsesor.resources
+C:\Users\SAMSUNG\Desktop\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.principal_coordinador.resources
+C:\Users\SAMSUNG\Desktop\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.Principal_docente.resources
+C:\Users\SAMSUNG\Desktop\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.frmRevisionDocumentos.resources
+C:\Users\SAMSUNG\Desktop\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.Solicitud_de_Residentes.resources
+C:\Users\SAMSUNG\Desktop\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.VerDetallesAlumno.resources
+C:\Users\SAMSUNG\Desktop\SCR\residentes\EnviarCorreo\obj\Debug\ControlResidentes.csproj.GenerateResource.cache
+C:\Users\SAMSUNG\Desktop\SCR\residentes\EnviarCorreo\obj\Debug\ControlResidentes.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\SCR\residentes\EnviarCorreo\obj\Debug\ControlResidentes.csproj.CopyComplete
+C:\Users\SAMSUNG\Desktop\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.exe
+C:\Users\SAMSUNG\Desktop\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.pdb
