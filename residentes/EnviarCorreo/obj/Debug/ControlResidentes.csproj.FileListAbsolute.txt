@@ -177,3 +177,22 @@ C:\Users\SAMSUNG\Desktop\SCR\residentes\EnviarCorreo\obj\Debug\ControlResidentes
 C:\Users\SAMSUNG\Desktop\SCR\residentes\EnviarCorreo\obj\Debug\ControlResidentes.csproj.CopyComplete
 C:\Users\SAMSUNG\Desktop\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.exe
 C:\Users\SAMSUNG\Desktop\SCR\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.pdb
+C:\Users\Mercado-Pc\Documents\Semestre 8\Github\Sistema_Residentes\residentes\EnviarCorreo\bin\Debug\EnviarCorreo.exe.config
+C:\Users\Mercado-Pc\Documents\Semestre 8\Github\Sistema_Residentes\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.exe
+C:\Users\Mercado-Pc\Documents\Semestre 8\Github\Sistema_Residentes\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.pdb
+C:\Users\Mercado-Pc\Documents\Semestre 8\Github\Sistema_Residentes\residentes\EnviarCorreo\bin\Debug\EnviarCorreo.exe
+C:\Users\Mercado-Pc\Documents\Semestre 8\Github\Sistema_Residentes\residentes\EnviarCorreo\bin\Debug\EnviarCorreo.pdb
+C:\Users\Mercado-Pc\Documents\Semestre 8\Github\Sistema_Residentes\residentes\EnviarCorreo\bin\Debug\Google.Protobuf.dll
+C:\Users\Mercado-Pc\Documents\Semestre 8\Github\Sistema_Residentes\residentes\EnviarCorreo\bin\Debug\MySql.Data.xml
+C:\Users\Mercado-Pc\Documents\Semestre 8\Github\Sistema_Residentes\residentes\EnviarCorreo\obj\Debug\ControlResidentes.csprojResolveAssemblyReference.cache
+C:\Users\Mercado-Pc\Documents\Semestre 8\Github\Sistema_Residentes\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.frmAgregarAlumno.resources
+C:\Users\Mercado-Pc\Documents\Semestre 8\Github\Sistema_Residentes\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.Login.resources
+C:\Users\Mercado-Pc\Documents\Semestre 8\Github\Sistema_Residentes\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.Principal_alumnos.resources
+C:\Users\Mercado-Pc\Documents\Semestre 8\Github\Sistema_Residentes\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.Properties.Resources.resources
+C:\Users\Mercado-Pc\Documents\Semestre 8\Github\Sistema_Residentes\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.frmAsesor.resources
+C:\Users\Mercado-Pc\Documents\Semestre 8\Github\Sistema_Residentes\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.principal_coordinador.resources
+C:\Users\Mercado-Pc\Documents\Semestre 8\Github\Sistema_Residentes\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.Principal_docente.resources
+C:\Users\Mercado-Pc\Documents\Semestre 8\Github\Sistema_Residentes\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.frmRevisionDocumentos.resources
+C:\Users\Mercado-Pc\Documents\Semestre 8\Github\Sistema_Residentes\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.Solicitud_de_Residentes.resources
+C:\Users\Mercado-Pc\Documents\Semestre 8\Github\Sistema_Residentes\residentes\EnviarCorreo\obj\Debug\EnviarCorreo.vistas.VerDetallesAlumno.resources
+C:\Users\Mercado-Pc\Documents\Semestre 8\Github\Sistema_Residentes\residentes\EnviarCorreo\obj\Debug\ControlResidentes.csproj.GenerateResource.Cache

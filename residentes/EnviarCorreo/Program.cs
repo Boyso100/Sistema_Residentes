@@ -17,7 +17,7 @@ namespace EnviarCorreo
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Principal_alumnos());
+            Application.Run(new Login());
         }
     }
 }

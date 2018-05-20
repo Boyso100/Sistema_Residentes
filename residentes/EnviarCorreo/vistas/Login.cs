@@ -17,12 +17,13 @@ namespace EnviarCorreo.vistas
 
         Asesor asesor;
         AsesoresDAO asesorDAO;
-
+        AlumnosDAO alumnosDao;
         public Login()
         {
             InitializeComponent();
             asesor = new Asesor();
             asesorDAO = new AsesoresDAO();
+            alumnosDao = new AlumnosDAO();
         }
 
         private void btnIngresar_Click(object sender, EventArgs e)
@@ -33,16 +34,37 @@ namespace EnviarCorreo.vistas
             }
             else
             {
-                if(asesorDAO.obtenerAsesor(txtUser.Text).getUsuario() == txtUser.Text)
+                if (cboTipoUser.SelectedItem.ToString() == "Docente")
                 {
-                    asesor = asesorDAO.obtenerAsesor(txtUser.Text);
-                    frmAsesor asesorForm = new frmAsesor(asesor);
-                    Hide();
-                    asesorForm.Show();
+                    if (asesorDAO.obtenerAsesor().getUsuario() == txtUser.Text && asesorDAO.obtenerAsesor().getPassword() == txtPassword.Text)
+                    {
+                        asesor = asesorDAO.obtenerAsesor();
+                        frmAsesor asesorForm = new frmAsesor(asesor);
+                        Hide();
+                        asesorForm.Show();
+                    }
+                    else
+                    {
+                        MessageBox.Show("Usuario o contraseña incorrectos");
+                    }
+
                 }
-                else
+
+                //-------------------------------------------
+
+                if (cboTipoUser.SelectedItem.ToString() == "Alumno")
                 {
-                    MessageBox.Show("No existe ningún docente con ese nombre de usuario.");
+                    if (alumnosDao.seleccionarAlumnoPorMatricula().getUsuario() == txtUser.Text && alumnosDao.seleccionarAlumnoPorMatricula().getPassword() == txtPassword.Text)
+                    {
+
+                        Principal_alumnos Palumnos = new Principal_alumnos();
+                        Hide();
+                        Palumnos.Show();
+                    }
+                    else
+                    {
+                        MessageBox.Show("Usuario o contraseña incorrectos");
+                    }
                 }
             }
         }

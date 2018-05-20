@@ -30,11 +30,13 @@ namespace EnviarCorreo.vistas
 
             alumno.setMatricula(txtMatricula.Text);
             alumno.setNombre(txtNombre.Text);
+            alumno.setUsuario(txtUsuario.Text);
+            alumno.setPassword(txtPass.Text);
             alumno.setApellidoPaterno(txtApellidoP.Text);
             alumno.setApellidoMaterno(txtApellidoM.Text);
             alumno.setEmail(textEmail.Text);
             alumno.setTelefono(textTelefono.Text);
-            alumno.setCiudad(ciudad.Text);
+            alumno.setCiudad(txtCiudad.Text);
 
 
 
@@ -44,6 +46,16 @@ namespace EnviarCorreo.vistas
         }
 
         private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void frmAgregarAlumno_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label6_Click(object sender, EventArgs e)
         {
 
         }

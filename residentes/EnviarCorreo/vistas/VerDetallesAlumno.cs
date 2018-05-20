@@ -27,7 +27,7 @@ namespace EnviarCorreo.vistas
         {
             InitializeComponent();
             obtenerAlumno = new AlumnosDAO();
-            alumno = obtenerAlumno.seleccionarAlumnoPorMatricula(matricula);
+            alumno = obtenerAlumno.seleccionarAlumnoPorMatricula();
             lblMatricula.Text = matricula;
             lblAsesorId.Text = id_asesor;
             txtNombre.Text = alumno.getNombre();
@@ -41,7 +41,7 @@ namespace EnviarCorreo.vistas
         {
             Alumno alumno = new Alumno();
             AlumnosDAO alumno_dao = new AlumnosDAO();
-            alumno = alumno_dao.seleccionarAlumnoPorMatricula(lblMatricula.Text);
+            alumno = alumno_dao.seleccionarAlumnoPorMatricula();
             Observacion objObservacion = new Observacion();
             ObservacionesDAO observaciones = new ObservacionesDAO();
             string timestamp;

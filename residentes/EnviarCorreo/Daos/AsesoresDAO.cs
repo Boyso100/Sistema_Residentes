@@ -16,11 +16,11 @@ namespace EnviarCorreo.Daos
     {
         Conexion conexionAsesores = Conexion.obtenerInstanciaConexion();
 
-        public Asesor obtenerAsesor(string user)
+        public Asesor obtenerAsesor()
         {
 
             Asesor asesor = new Asesor();
-            string sqlQuery = "SELECT * FROM asesores WHERE usuario LIKE '" + user + "';";
+            string sqlQuery = "SELECT * FROM asesores";
 
             if (conexionAsesores.abrirConexion() == true)
             {

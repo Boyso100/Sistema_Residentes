@@ -64,10 +64,10 @@ namespace EnviarCorreo.Daos
             return alumnos;
         }
 
-        public Alumno seleccionarAlumnoPorMatricula(string matricula)
+        public Alumno seleccionarAlumnoPorMatricula()
         {
             Alumno  alumno = new Alumno();
-            string sqlQuery = "SELECT * FROM alumnos WHERE matricula LIKE '" + matricula + "';";
+            string sqlQuery = "SELECT * FROM alumnos";
 
             if (conexionAlumnos.abrirConexion() == true)
             {
@@ -78,9 +78,10 @@ namespace EnviarCorreo.Daos
                 {
                     alumno.setMatricula(dr["matricula"] + "");
                     alumno.setUsuario(dr["usuario"] + "");
+                    alumno.setPassword(dr["contraseña"] + "");
                     alumno.setNombre(dr["nombre"] + "");
-                    alumno.setApellidoPaterno(dr["apellido_paterno"] + "");
-                    alumno.setApellidoMaterno(dr["apellido_materno"] + "");
+                    alumno.setApellidoPaterno(dr["ap_paterno"] + "");
+                    alumno.setApellidoMaterno(dr["ap_materno"] + "");
                     alumno.setEmail(dr["email"] + "");
                     alumno.setTelefono(dr["telefono"] + "");
                 }
